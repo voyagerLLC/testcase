@@ -3,3 +3,4 @@ first git practice
 append new line
 git add
 git commit
+git diff
